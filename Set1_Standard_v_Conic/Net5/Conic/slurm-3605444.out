@@ -1,0 +1,405 @@
+
+Budget 8
+
+
+Interdiction:
+(11,12)
+(27,42)
+(28,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter TokenServer to value "license8.clemson.edu"
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B8_0.txt"
+
+Reached Time limt!
+
+MIP Gap 0.266212
+
+
+Runtime: 7215.61 sec
+
+
+UB0 = 0, UB1 = 371
+
+(1,2)
+(11,12)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B8_1.txt"
+
+Reached Time limt!
+
+MIP Gap 0.392491
+
+
+Runtime: 7215.42 sec
+
+
+UB0 = 0, UB1 = 408
+
+(1,2)
+(27,42)
+(32,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B8_2.txt"
+
+Reached Time limt!
+
+MIP Gap 0.300341
+
+
+Runtime: 7214.76 sec
+
+
+UB0 = 0, UB1 = 381
+
+(1,2)
+(32,42)
+(38,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B8_3.txt"
+
+Reached Time limt!
+
+MIP Gap 0.317406
+
+
+Runtime: 7214.17 sec
+
+
+UB0 = 0, UB1 = 386
+
+(35,36)
+(23,42)
+(33,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B8_4.txt"
+
+Reached Time limt!
+
+MIP Gap 0.269625
+
+
+Runtime: 7213.53 sec
+
+
+UB0 = 0, UB1 = 372
+
+
+Budget 10
+
+
+Interdiction:
+(11,12)
+(20,21)
+(40,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B10_0.txt"
+
+Reached Time limt!
+
+MIP Gap 0.331058
+
+
+Runtime: 7218.87 sec
+
+
+UB0 = 0, UB1 = 390
+
+(1,2)
+(20,21)
+(15,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B10_1.txt"
+
+Reached Time limt!
+
+MIP Gap 0.354949
+
+
+Runtime: 7213.09 sec
+
+
+UB0 = 0, UB1 = 397
+
+(1,2)
+(11,12)
+(4,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B10_2.txt"
+
+Reached Time limt!
+
+MIP Gap 0.286689
+
+
+Runtime: 7213.78 sec
+
+
+UB0 = 0, UB1 = 377
+
+(1,2)
+(10,42)
+(22,42)
+(33,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B10_3.txt"
+
+Reached Time limt!
+
+MIP Gap 0.313993
+
+
+Runtime: 7213.22 sec
+
+
+UB0 = 0, UB1 = 385
+
+(1,2)
+(35,36)
+(15,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B10_4.txt"
+
+Reached Time limt!
+
+MIP Gap 0.313993
+
+
+Runtime: 7213.23 sec
+
+
+UB0 = 0, UB1 = 385
+
+
+Budget 12
+
+
+Interdiction:
+(1,2)
+(11,12)
+(7,42)
+(24,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B12_0.txt"
+
+Reached Time limt!
+
+MIP Gap 0.25256
+
+
+Runtime: 7216.59 sec
+
+
+UB0 = 0, UB1 = 367
+
+(0,11)
+(35,36)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B12_1.txt"
+Solved to optimality!
+
+Runtime: 2048.26 sec
+
+
+UB0 = 0, UB1 = 292
+
+(1,2)
+(11,12)
+(23,42)
+(37,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B12_2.txt"
+
+Reached Time limt!
+
+MIP Gap 0.269625
+
+
+Runtime: 7215.59 sec
+
+
+UB0 = 0, UB1 = 372
+
+(1,2)
+(20,21)
+(6,42)
+(33,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B12_3.txt"
+
+Reached Time limt!
+
+MIP Gap 0.313993
+
+
+Runtime: 7217.56 sec
+
+
+UB0 = 0, UB1 = 385
+
+(1,2)
+(11,12)
+(22,42)
+(37,42)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B12_4.txt"
+
+Reached Time limt!
+
+MIP Gap 0.296928
+
+
+Runtime: 7214 sec
+
+
+UB0 = 0, UB1 = 380
+
