@@ -1,0 +1,39 @@
+
+Gurobi 10.0.1 (linux64) logging started Fri Jun 20 19:07:41 2025
+
+Set parameter LogFile to value "LogFile_MinCostProblem_B12.txt"
+Set parameter LogToConsole to value 0
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 80 physical cores, 80 logical processors, using up to 32 threads
+
+Optimize a model with 145 rows, 202 columns and 505 nonzeros
+Model fingerprint: 0xd2abd72d
+Variable types: 101 continuous, 101 integer (101 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  Objective range  [8e+00, 2e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [8e+00, 1e+04]
+Found heuristic solution: objective 10094.000000
+Presolve removed 126 rows and 162 columns
+Presolve time: 0.00s
+Presolved: 19 rows, 40 columns, 82 nonzeros
+Variable types: 34 continuous, 6 integer (6 binary)
+Found heuristic solution: objective 20013.000000
+
+Root relaxation: objective 2.002100e+04, 1 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0    20021.000000 20021.0000  0.00%     -    0s
+
+Explored 1 nodes (1 simplex iterations) in 0.01 seconds (0.00 work units)
+Thread count was 32 (of 80 available processors)
+
+Solution count 3: 20021 20013 10094 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.002100000000e+04, best bound 2.002100000000e+04, gap 0.0000%
