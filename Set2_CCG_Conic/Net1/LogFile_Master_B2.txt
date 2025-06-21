@@ -1,0 +1,50 @@
+
+Gurobi 10.0.1 (linux64) logging started Fri Jun 20 17:26:40 2025
+
+Set parameter LogFile to value "LogFile_Master_B2.txt"
+Set parameter LogToConsole to value 0
+Set parameter MIPFocus to value 3
+Set parameter NumericFocus to value 3
+Set parameter Cuts to value 3
+Set parameter TimeLimit to value 8.6399245923280716e+04
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 40 physical cores, 40 logical processors, using up to 32 threads
+
+Optimize a model with 70 rows, 97 columns and 234 nonzeros
+Model fingerprint: 0x6fdc8e67
+Model has 1 quadratic constraint
+Variable types: 69 continuous, 28 integer (28 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  QMatrix range    [8e+00, 1e+04]
+  QLMatrix range   [8e+00, 1e+04]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 1e+04]
+Presolve removed 40 rows and 48 columns
+Presolve time: 0.00s
+Presolved: 47 rows, 73 columns, 196 nonzeros
+Presolved model has 16 SOS constraint(s)
+Variable types: 57 continuous, 16 integer (16 binary)
+Root relaxation presolve removed 17 rows and 27 columns
+Root relaxation presolved: 28 rows, 26 columns, 84 nonzeros
+
+
+Root relaxation: objective 1.333333e+01, 19 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   13.33333    0    8          -   13.33333      -     -    0s
+H    0     0                      70.0000000   13.33333  81.0%     -    0s
+     0     2   13.33333    0    8   70.00000   13.33333  81.0%     -    0s
+
+Explored 15 nodes (78 simplex iterations) in 0.28 seconds (0.00 work units)
+Thread count was 32 (of 40 available processors)
+
+Solution count 1: 70 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 7.000000000000e+01, best bound 7.000000000000e+01, gap 0.0000%

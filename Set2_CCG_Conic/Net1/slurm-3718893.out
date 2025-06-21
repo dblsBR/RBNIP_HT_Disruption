@@ -1,0 +1,197 @@
+
+
+Instance: Net1.csv, Budget 6
+Instance executed on Fri Jun 20 17:26:38 2025 
+
+
+Solving min cost interdiction problem to get initial gamma ... 
+
+Set parameter TokenServer to value "license8.clemson.edu"
+Set parameter OutputFlag to value 1
+Set parameter LogFile to value "LogFile_MinCostProblem_B6.txt"
+
+Run time min cost flow interdiction problem: 0.11 sec
+
+
+
+------ Initialization (Iteration 0) -------
+
+Initial Interdiction:
+(3,11)
+(6,11)
+(9,11)
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_0.txt"
+
+Solved to optimality!
+
+ub (Sub0): -0
+ub (Sub1): 69
+
+
+--- Solving Master problem ---
+
+
+Remaining Time 86399.9
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Master_B6.txt"
+
+LB (Master): 61
+UB (Sub): 69
+
+
+Interdiction:
+(5,11)
+(7,11)
+(9,11)
+
+
+------ Iteration 1 -------
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_1.txt"
+
+Solved to optimality!
+
+ub (Sub0): -0
+ub (Sub1): 61
+
+
+Current c is equal to c[0]!
+No Gap! Break!
+
+--- Solving Master problem ---
+
+
+LB (Master): 61
+UB (Sub): 61
+
+
+Interdiction:
+(5,11)
+(7,11)
+(9,11)
+
+Running Time: 1.18 secs
+
+
+Instance: Net1.csv, Budget 4
+Instance executed on Fri Jun 20 17:26:39 2025 
+
+
+Solving min cost interdiction problem to get initial gamma ... 
+
+Set parameter OutputFlag to value 1
+Set parameter LogFile to value "LogFile_MinCostProblem_B4.txt"
+
+Run time min cost flow interdiction problem: 0 sec
+
+
+
+------ Initialization (Iteration 0) -------
+
+Initial Interdiction:
+(1,2)
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B4_0.txt"
+
+Solved to optimality!
+
+ub (Sub0): -0
+ub (Sub1): 70
+
+
+--- Solving Master problem ---
+
+
+Remaining Time 86399.5
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Master_B4.txt"
+
+LB (Master): 70
+UB (Sub): 70
+
+
+Interdiction:
+
+Running Time: 0.89 secs
+
+
+Instance: Net1.csv, Budget 2
+Instance executed on Fri Jun 20 17:26:40 2025 
+
+
+Solving min cost interdiction problem to get initial gamma ... 
+
+Set parameter OutputFlag to value 1
+Set parameter LogFile to value "LogFile_MinCostProblem_B2.txt"
+
+Run time min cost flow interdiction problem: 0 sec
+
+
+
+------ Initialization (Iteration 0) -------
+
+Initial Interdiction:
+(9,11)
+
+--- Solving Sub 0 ---
+
+Set parameter NonConvex to value 2
+
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B2_0.txt"
+
+Solved to optimality!
+
+ub (Sub0): -0
+ub (Sub1): 70
+
+
+--- Solving Master problem ---
+
+
+Remaining Time 86399.2
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Master_B2.txt"
+
+LB (Master): 70
+UB (Sub): 70
+
+
+Interdiction:
+
+Running Time: 1.05 secs
