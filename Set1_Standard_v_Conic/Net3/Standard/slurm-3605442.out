@@ -1,0 +1,326 @@
+
+Budget 6
+
+
+Interdiction:
+(8,29)
+(24,29)
+(27,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter TokenServer to value "license8.clemson.edu"
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B6_S0.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.111111
+
+
+Runtime: 7207.54 sec
+
+(1,2)
+(6,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B6_S1.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.0909091
+
+
+Runtime: 7207.92 sec
+
+(11,12)
+(19,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B6_S2.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.1
+
+
+Runtime: 7205.29 sec
+
+(1,2)
+(13,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B6_S3.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.111111
+
+
+Runtime: 7207.64 sec
+
+(1,2)
+(16,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B6_S4.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.111111
+
+
+Runtime: 7207.11 sec
+
+
+Budget 8
+
+
+Interdiction:
+(1,2)
+(14,29)
+(17,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B8_S0.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.125
+
+
+Runtime: 7206.73 sec
+
+(11,12)
+(6,29)
+(25,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B8_S1.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.1
+
+
+Runtime: 7205.06 sec
+
+(20,21)
+(7,29)
+(18,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B8_S2.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.0909091
+
+
+Runtime: 7207.62 sec
+
+(1,2)
+(19,29)
+(25,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B8_S3.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.1
+
+
+Runtime: 7205.21 sec
+
+(11,12)
+(14,29)
+(25,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B8_S4.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.0909091
+
+
+Runtime: 7204.41 sec
+
+
+Budget 10
+
+
+Interdiction:
+(0,1)
+(14,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B10_S0.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.142857
+
+
+Runtime: 7201.87 sec
+
+(0,20)
+(17,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B10_S1.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.142857
+
+
+Runtime: 7202.23 sec
+
+(11,12)
+(5,29)
+(9,29)
+(25,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B10_S2.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.125
+
+
+Runtime: 7203.31 sec
+
+(1,2)
+(11,12)
+(24,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B10_S3.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.0769231
+
+
+Runtime: 7202.47 sec
+
+(1,2)
+(11,12)
+(27,29)
+
+
+
+--- Solving Subproblem ---
+
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Subproblem_B10_S4.txt"
+
+Reached Time limt!
+
+MIP Gap inf
+
+
+z= 0.0909091
+
+
+Runtime: 7202.74 sec
+

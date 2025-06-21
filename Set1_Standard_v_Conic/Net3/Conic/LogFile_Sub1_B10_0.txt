@@ -1,0 +1,49 @@
+
+Gurobi 10.0.1 (linux64) logging started Mon Jun 16 07:21:59 2025
+
+Set parameter LogFile to value "LogFile_Sub1_B10_0.txt"
+Set parameter LogToConsole to value 0
+Set parameter MIPFocus to value 3
+Set parameter Cuts to value 3
+Set parameter TimeLimit to value 7200
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 80 physical cores, 80 logical processors, using up to 32 threads
+
+Optimize a model with 271 rows, 247 columns and 601 nonzeros
+Model fingerprint: 0x5d5c36c1
+Model has 72 quadratic objective terms
+Model has 1 quadratic constraint
+Variable types: 174 continuous, 73 integer (0 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  QMatrix range    [1e+00, 1e+00]
+  QLMatrix range   [1e+00, 1e+04]
+  Objective range  [8e+00, 1e+04]
+  QObjective range [2e+00, 2e+00]
+  Bounds range     [0e+00, 0e+00]
+  RHS range        [1e+00, 1e+04]
+Presolve removed 242 rows and 140 columns
+Presolve time: 0.18s
+Presolved: 90 rows, 122 columns, 371 nonzeros
+Presolved model has 15 bilinear constraint(s)
+Variable types: 106 continuous, 16 integer (0 binary)
+Root relaxation presolve removed 21 rows and 67 columns
+Root relaxation presolved: 69 rows, 55 columns, 176 nonzeros
+
+
+Root relaxation: objective 1.880000e+02, 33 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+*    0     0               0     188.0000000  188.00000  0.00%     -    0s
+
+Explored 1 nodes (33 simplex iterations) in 0.71 seconds (0.00 work units)
+Thread count was 32 (of 80 available processors)
+
+Solution count 1: 188 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.880000000000e+02, best bound 1.880000000000e+02, gap 0.0000%
