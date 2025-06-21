@@ -1,0 +1,97 @@
+
+Gurobi 10.0.1 (linux64) logging started Fri Jun 20 17:26:56 2025
+
+Set parameter LogFile to value "LogFile_Master_B10.txt"
+Set parameter LogToConsole to value 0
+Set parameter MIPFocus to value 3
+Set parameter NumericFocus to value 3
+Set parameter Cuts to value 3
+Set parameter TimeLimit to value 8.6399919262647629e+04
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 40 physical cores, 40 logical processors, using up to 32 threads
+
+Optimize a model with 176 rows, 247 columns and 602 nonzeros
+Model fingerprint: 0xa3245983
+Model has 1 quadratic constraint
+Variable types: 175 continuous, 72 integer (72 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  QMatrix range    [8e+00, 1e+04]
+  QLMatrix range   [8e+00, 1e+04]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [8e+00, 1e+04]
+Presolve removed 69 rows and 69 columns
+Presolve time: 0.00s
+Presolved: 170 rows, 271 columns, 708 nonzeros
+Presolved model has 62 SOS constraint(s)
+Variable types: 209 continuous, 62 integer (62 binary)
+Root relaxation presolve removed 120 rows and 180 columns
+Root relaxation presolve: All rows and columns removed
+
+Root relaxation: objective 0.000000e+00, 0 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   25          -    0.00000      -     -    0s
+H    0     0                     207.0000000    0.00000   100%     -    0s
+     0     2    0.00000    0   25  207.00000    0.00000   100%     -    0s
+H    6     8                     194.0000000    0.00000   100%   5.2    0s
+*    8    12               3     190.0000000    0.00000   100%  10.0    0s
+*   14    12               3     178.0000000    0.00000   100%   9.5    0s
+
+Explored 3351 nodes (26389 simplex iterations) in 3.11 seconds (0.05 work units)
+Thread count was 32 (of 40 available processors)
+
+Solution count 4: 178 190 194 207 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.780000000000e+02, best bound 1.780000000000e+02, gap 0.0000%
+Set parameter TimeLimit to value 8.6396734871149063e+04
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 40 physical cores, 40 logical processors, using up to 32 threads
+
+Optimize a model with 352 rows, 421 columns and 1204 nonzeros
+Model fingerprint: 0x88580a48
+Model has 2 quadratic constraints
+Variable types: 349 continuous, 72 integer (72 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  QMatrix range    [8e+00, 1e+04]
+  QLMatrix range   [8e+00, 1e+04]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [8e+00, 1e+04]
+
+MIP start from previous solve produced solution with objective 178 (0.00s)
+Loaded MIP start from previous solve with objective 178
+
+Presolve removed 137 rows and 95 columns
+Presolve time: 0.00s
+Presolved: 341 rows, 512 columns, 1389 nonzeros
+Presolved model has 124 SOS constraint(s)
+Variable types: 419 continuous, 93 integer (93 binary)
+Root relaxation presolve removed 242 rows and 330 columns
+Root relaxation presolve: All rows and columns removed
+
+Root relaxation: objective 0.000000e+00, 0 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0    0.00000    0   50  178.00000    0.00000   100%     -    0s
+     0     2    0.00000    0   50  178.00000    0.00000   100%     -    0s
+  3229  2055  161.53764   17   41  178.00000  153.29485  13.9%  23.9    5s
+
+Explored 3426 nodes (79935 simplex iterations) in 6.48 seconds (0.15 work units)
+Thread count was 32 (of 40 available processors)
+
+Solution count 1: 178 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.780000000000e+02, best bound 1.780000000000e+02, gap 0.0000%

@@ -1,0 +1,30 @@
+
+Gurobi 10.0.1 (linux64) logging started Fri Jun 20 17:26:47 2025
+
+Set parameter LogFile to value "LogFile_MinCostProblem_B12.txt"
+Set parameter LogToConsole to value 0
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 40 physical cores, 40 logical processors, using up to 32 threads
+
+Optimize a model with 103 rows, 144 columns and 360 nonzeros
+Model fingerprint: 0xedbd4631
+Variable types: 72 continuous, 72 integer (72 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  Objective range  [9e+00, 2e+04]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [8e+00, 1e+04]
+Found heuristic solution: objective 114.0000000
+Presolve removed 103 rows and 144 columns
+Presolve time: 0.00s
+Presolve: All rows and columns removed
+
+Explored 0 nodes (0 simplex iterations) in 0.00 seconds (0.00 work units)
+Thread count was 1 (of 40 available processors)
+
+Solution count 2: 132 114 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.320000000000e+02, best bound 1.320000000000e+02, gap 0.0000%

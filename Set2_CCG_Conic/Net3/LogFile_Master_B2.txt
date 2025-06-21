@@ -1,0 +1,50 @@
+
+Gurobi 10.0.1 (linux64) logging started Fri Jun 20 17:27:50 2025
+
+Set parameter LogFile to value "LogFile_Master_B2.txt"
+Set parameter LogToConsole to value 0
+Set parameter MIPFocus to value 3
+Set parameter NumericFocus to value 3
+Set parameter Cuts to value 3
+Set parameter TimeLimit to value 8.6386964080333710e+04
+Gurobi Optimizer version 10.0.1 build v10.0.1rc0 (linux64)
+
+CPU model: Intel(R) Xeon(R) Gold 6148 CPU @ 2.40GHz, instruction set [SSE2|AVX|AVX2|AVX512]
+Thread count: 40 physical cores, 40 logical processors, using up to 32 threads
+
+Optimize a model with 176 rows, 247 columns and 602 nonzeros
+Model fingerprint: 0xc151275d
+Model has 1 quadratic constraint
+Variable types: 175 continuous, 72 integer (72 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+04]
+  QMatrix range    [8e+00, 1e+04]
+  QLMatrix range   [8e+00, 1e+04]
+  Objective range  [1e+00, 1e+00]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [2e+00, 1e+04]
+Presolve removed 89 rows and 100 columns
+Presolve time: 0.00s
+Presolved: 132 rows, 213 columns, 580 nonzeros
+Presolved model has 44 SOS constraint(s)
+Variable types: 169 continuous, 44 integer (44 binary)
+Root relaxation presolve removed 45 rows and 76 columns
+Root relaxation presolved: 73 rows, 75 columns, 232 nonzeros
+
+
+Root relaxation: objective 2.064516e+01, 57 iterations, 0.00 seconds (0.00 work units)
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   20.64516    0   22          -   20.64516      -     -    0s
+H    0     0                     207.0000000   20.64516  90.0%     -    0s
+     0     2   20.64516    0   22  207.00000   20.64516  90.0%     -    0s
+
+Explored 35 nodes (406 simplex iterations) in 0.97 seconds (0.02 work units)
+Thread count was 32 (of 40 available processors)
+
+Solution count 1: 207 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.070000000000e+02, best bound 2.070000000000e+02, gap 0.0000%

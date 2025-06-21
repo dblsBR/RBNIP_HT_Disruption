@@ -1,0 +1,19 @@
+Instance executed at: Fri Jun 20 17:26:38 2025 
+
+Runtime: 12.11
+
+LB (Master): 207
+UB (Sub): 207
+lb (Sub): 207
+
+Gap (C&CG): 0%
+
+Gap (sub): 0%
+
+Interdiction Vectors:
+(14,29) (18,29) (22,29) 
+
+Cost Vectors
+Iteration 0:
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -23 -21 -20 -24 -23 -21 -23 -14 -32 0 0 0 0 0 0 -14 -31 -20 -25 -19 -26 -14 -23 0 0 0 0 -10 -21 -18 -14 -10 -28 -23 -15 
+
