@@ -1,0 +1,598 @@
+
+Budget 2
+
+
+Interdiction:
+(7,11)
+
+
+
+--- Solving Sub 0 ---
+
+Set parameter TokenServer to value "license8.clemson.edu"
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B2_0.txt"
+Solved to optimality!
+
+Runtime: 831.7 sec
+
+
+UB0 = 0, UB1 = 69
+
+(8,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B2_1.txt"
+Solved to optimality!
+
+Runtime: 1885.45 sec
+
+
+UB0 = 0, UB1 = 69
+
+(9,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B2_2.txt"
+Solved to optimality!
+
+Runtime: 4180.83 sec
+
+
+UB0 = 0, UB1 = 69
+
+(6,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B2_3.txt"
+Solved to optimality!
+
+Runtime: 885.35 sec
+
+
+UB0 = 0, UB1 = 69
+
+(3,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B2_4.txt"
+Solved to optimality!
+
+Runtime: 203.02 sec
+
+
+UB0 = 0, UB1 = 69
+
+
+Budget 4
+
+
+Interdiction:
+(7,11)
+(10,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B4_0.txt"
+Solved to optimality!
+
+Runtime: 1.66 sec
+
+
+UB0 = 0, UB1 = 70
+
+(3,11)
+(9,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B4_1.txt"
+Solved to optimality!
+
+Runtime: 8.94 sec
+
+
+UB0 = 0, UB1 = 69
+
+(7,11)
+(9,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B4_2.txt"
+Solved to optimality!
+
+Runtime: 0.81 sec
+
+
+UB0 = 0, UB1 = 70
+
+(5,11)
+(7,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B4_3.txt"
+Solved to optimality!
+
+Runtime: 0.93 sec
+
+
+UB0 = 0, UB1 = 69
+
+(5,11)
+(9,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B4_4.txt"
+Solved to optimality!
+
+Runtime: 4.22 sec
+
+
+UB0 = 0, UB1 = 70
+
+
+Budget 6
+
+
+Interdiction:
+(5,11)
+(7,11)
+(8,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_0.txt"
+Solved to optimality!
+
+Runtime: 0.04 sec
+
+
+UB0 = 0, UB1 = 65
+
+(1,2)
+(10,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_1.txt"
+Solved to optimality!
+
+Runtime: 7.95 sec
+
+
+UB0 = 0, UB1 = 69
+
+(4,11)
+(7,11)
+(9,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_2.txt"
+Solved to optimality!
+
+Runtime: 0.03 sec
+
+
+UB0 = 0, UB1 = 61
+
+(1,2)
+(7,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_3.txt"
+Solved to optimality!
+
+Runtime: 0.02 sec
+
+
+UB0 = 0, UB1 = 69
+
+(1,2)
+(3,11)
+
+
+
+--- Solving Sub 0 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Solved to optimality!
+
+--- Solving Sub 1 ---
+
+(2,11) range = [-30,-20]
+(3,11) range = [-24,-14]
+(4,11) range = [-23,-13]
+(5,11) range = [-27,-17]
+(6,11) range = [-26,-16]
+(7,11) range = [-24,-14]
+(8,11) range = [-30,-20]
+(9,11) range = [-20,-10]
+(10,11) range = [-35,-25]
+Set parameter NonConvex to value 2
+Set parameter LogFile to value "LogFile_Sub1_B6_4.txt"
+Solved to optimality!
+
+Runtime: 3.12 sec
+
+
+UB0 = 0, UB1 = 70
+

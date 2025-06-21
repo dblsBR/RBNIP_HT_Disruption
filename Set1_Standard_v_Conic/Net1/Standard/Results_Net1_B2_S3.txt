@@ -1,0 +1,14 @@
+Instance executed at: Sun Jun 15 17:16:47 2025 
+
+Runtime: 7204.22
+
+MIP Gap: inf%
+
+Interdiction
+(6,11)
+
+
+Cost Vectors
+0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 -30 -14 -13 -27 -16 -24 -30 -10 -35 
+
+Upper Bound (sub objective): inf 
